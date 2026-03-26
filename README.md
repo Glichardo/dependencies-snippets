@@ -1,8 +1,10 @@
-Hola
+IMPORTANTE: en el pom.xml probablemente hay que cambiar las siguientes líneas para que encajen con tu proyecto:
 
-Este repositorio tiene todo lo que voy guardando para no tener que buscarlo cada vez.
+    <groupId>org.example</groupId>
+    <artifactId>projectName</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
-Dependencias de Maven, Dockerfiles, configuraciones de Lombok, JUnit, log4j, y otras cosas que termino copiando y pegando de un proyecto a otro.
+Fork del Repositorio de ErickVelasquezTECH,
 
 Contenidos:
 +maven          # fragmentos para el pom.xml
